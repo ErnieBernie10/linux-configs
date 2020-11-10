@@ -107,5 +107,3 @@ export NVM_DIR="$HOME/.nvm"
 
 export DENO_INSTALL="/home/aboedt/.deno"
 export PATH="$DENO_INSTALL/bin:$PATH"
-
-cd ~
